@@ -5,6 +5,8 @@ The Single Page App consists of two pages: Home page and Profile page. It retrie
 
 ## Overview
 On the Home page the App fetches character's data from the API and displays it in a table with the following columns: Avatar, Name, Species, and Status.
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/e7801ec2-1350-41cf-89ed-df05e4cba723)
+
 
 ### Navigation and Pagination
 
