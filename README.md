@@ -1,5 +1,10 @@
 # Rick and Morty's characters Single Page App
 The Single Page App consists of two pages: Home page and Profile page. It retrieves and displays data from the Rick and Morty API's character endpoint. The Single Page App creates an intuitive and appealing platform for users to explore Rick and Morty characters. It is designed for people who are interested in "the Rick and Morty" TV show to get more information about the characters. Users can easily navigate, search by name and get more detailed information about their favourite characters on Profile Page.
+## Home page:
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/6aff8fdb-b213-4586-9e95-b6a7c18d973e)
+## Profile Page:
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/4e7c7be9-dd98-492f-b706-ba20614a7e6c)
+
 
 ## Structure of the project
 
