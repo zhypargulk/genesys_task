@@ -23,11 +23,14 @@ There are 2 buttons: Next page and Previous page to navigate between pages. The 
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/fa3938d5-f0cf-4595-bf42-b8ba844c1423)
 ### Search
 At the top of the Home page, there's a search bar that can be used to filter the characters by their names. This feature works in real-time, updating the displayed character list as the user types in the search field. The search function helps users filter the characters based on their names.
-![image](https://github.com/zhypargulk/genesys_task/assets/130022154/9dae1216-0749-4393-b9e8-9fb5adc72a2c)
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/04bc44f6-0e0f-426f-994e-9906e90dbe68)
+
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/9662aee3-4fcb-44ee-a0f1-6d3dcdbbf1bc)
 
 
 ### Detailed Character Information
 If a user wants to get more information about a specific character, they can click on the character's name in the table. So then they will be navigated to the Profile page, where more detailed information about the character is displayed(character's gender, origin, and current location).
+
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/2fcd8de7-20c2-4dc5-a322-d377cbbcc72d)
 
 
