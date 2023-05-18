@@ -2,6 +2,8 @@
 The Single Page App consists of two pages: Home page and Profile page. It retrieves and displays data from the Rick and Morty API's character endpoint. The Single Page App creates an intuitive and appealing platform for users to explore Rick and Morty characters. It is designed for people who are interested in "the Rick and Morty" TV show to get more information about the characters. Users can easily navigate, search by name and get more detailed information about their favourite characters on Profile Page.
 ## Home page:
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/6aff8fdb-b213-4586-9e95-b6a7c18d973e)
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/bf26639c-4b07-43a0-a724-414240edcd02)
+
 ## Profile Page:
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/4e7c7be9-dd98-492f-b706-ba20614a7e6c)
 
@@ -50,15 +52,3 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
