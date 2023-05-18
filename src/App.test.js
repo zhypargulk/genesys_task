@@ -1,5 +1,5 @@
-import { render, screen, fireEvent, waitFor } from '@testing-library/react';
-import App from './App';w
+import { render, screen  } from '@testing-library/react';
+import App from './App';
 
 describe('general', () => {
   test('homepage', () => {
@@ -7,6 +7,5 @@ describe('general', () => {
     const searchInput = screen.getByPlaceholderText('Search by name');
     expect(searchInput).toBeInTheDocument();
   });
-  
  
 });
