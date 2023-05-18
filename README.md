@@ -15,6 +15,7 @@ the bottom:
 
 ## Overview
 On the Home page the App fetches character's data from the API and displays it in a table with the following columns: Avatar, Name, Species, and Status.
+
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/f391c185-f281-4f8c-9758-e90b7d3db697)
 
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/e00a2f57-f77c-4f93-b3f4-5dcee341f680)
