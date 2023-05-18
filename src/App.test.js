@@ -7,5 +7,4 @@ describe('general', () => {
     const searchInput = screen.getByPlaceholderText('Search by name');
     expect(searchInput).toBeInTheDocument();
   });
- 
 });

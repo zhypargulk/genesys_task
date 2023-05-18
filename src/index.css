@@ -2,11 +2,9 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -54,7 +52,6 @@ h1 {
   width: 350px; 
   height: auto;
 }
-
 
 button {
   border-radius: 8px;
@@ -236,7 +233,7 @@ p {
   width: 150px;
   height: 60px;
   color: #fff;
-  border-radius: 20px; /* Decreased border-radius to make it less round */
+  border-radius: 20px; 
   padding: 10px 25px;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
@@ -253,12 +250,12 @@ p {
   margin-bottom: 20px;
 }
 .btn-1 {
-  background: #43a6d4; /* Pastel blue background color */
+  background: #43a6d4; 
   border: none;
 }
 
 .btn-1:hover {
-  background: #3783aa; /* Darker shade of pastel blue on hover */
+  background: #3783aa; 
 }
 
 
