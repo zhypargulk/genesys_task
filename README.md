@@ -1,7 +1,10 @@
 # Rick and Morty's characters Single Page App
 The Single Page App consists of two pages: Home page and Profile page. It retrieves and displays data from the Rick and Morty API's character endpoint. The Single Page App creates an intuitive and appealing platform for users to explore Rick and Morty characters. It is designed for people who are interested in "the Rick and Morty" TV show to get more information about the characters. Users can easily navigate, search by name and get more detailed information about their favourite characters on Profile Page.
 ## Home page:
+the top:
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/6aff8fdb-b213-4586-9e95-b6a7c18d973e)
+
+the bottom: 
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/bf26639c-4b07-43a0-a724-414240edcd02)
 
 ## Profile Page:
@@ -12,15 +15,12 @@ The Single Page App consists of two pages: Home page and Profile page. It retrie
 
 ## Overview
 On the Home page the App fetches character's data from the API and displays it in a table with the following columns: Avatar, Name, Species, and Status.
-![image](https://github.com/zhypargulk/genesys_task/assets/130022154/e7801ec2-1350-41cf-89ed-df05e4cba723)
-
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/86dc0636-8bc1-467d-ab63-b3c723b9f15d)
 
 ### Navigation and Pagination
 
 There are 2 buttons: Next page and Previous page to navigate between pages. The user can navigate through different pages of characters using the pagination buttons located at the bottom of the table.
-![image](https://github.com/zhypargulk/genesys_task/assets/130022154/eb08582c-5bc0-4e24-813f-18a16d286661)
-
-
+![image](https://github.com/zhypargulk/genesys_task/assets/130022154/fa3938d5-f0cf-4595-bf42-b8ba844c1423)
 ### Search
 At the top of the Home page, there's a search bar that can be used to filter the characters by their names. This feature works in real-time, updating the displayed character list as the user types in the search field. The search function helps users filter the characters based on their names.
 ![image](https://github.com/zhypargulk/genesys_task/assets/130022154/9dae1216-0749-4393-b9e8-9fb5adc72a2c)
